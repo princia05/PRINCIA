@@ -25,7 +25,7 @@ I design and evaluate intelligent systems that bridge deep learning research wit
 ### 📄 Betel Nut Hopping Algorithm (BNHA) for Cloud VM Migration
 *Nature-Inspired Optimization for Cloud Systems*
 - Formulated a novel metaheuristic optimization strategy to minimize virtual machine migration costs and energy consumption.
-- Evaluated performance against PSO, GA, and ACO in simulated cloud data center environments.
+- Evaluated performance against PSO, GA and ACO in simulated cloud data center environments.
 
 ---
 
@@ -40,7 +40,7 @@ I design and evaluate intelligent systems that bridge deep learning research wit
 - Incorporated explainable AI (XAI) capabilities using **SHAP** and **LIME** to interpret clinical matching decisions.
 
 ### ☁️ Distributed Backend & Cloud Optimization Engine
-- Designed cloud-hosted database backends utilizing **AWS EC2, RDS, and Amazon Aurora**.
+- Designed cloud-hosted database backends utilizing **AWS EC2, RDS and Amazon Aurora**.
 - Conducted comparative load and migration cost benchmarks for high-throughput cloud workloads.
 
 ---
