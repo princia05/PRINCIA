@@ -56,6 +56,6 @@ I design and evaluate intelligent systems that bridge deep learning research wit
 
 ##  Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/princiadsouza05/)
 - 📧 Email: princiadsouza05@gmail.com
 - 🌐 [GitHub Repositories](https://github.com/princia05)
